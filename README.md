@@ -1,6 +1,6 @@
 # API Pokedex 
 
-<img src = "./assets/Pokédex_logo.png" width="60" height="39">
+![imagen Pokédex](./src/assets/Pokédex_logo.png)
 
 Ejercicio para practicar react con Hooks (useState, useEffect, useContext) donde se ha utilizado la APi de PokeApi. <br> 
 Esta es la API que se ha utilizado para el ejercicio que es la <a href="https://pokeapi.co/">PokeApi.</a>
@@ -8,15 +8,15 @@ Esta es la API que se ha utilizado para el ejercicio que es la <a href="https://
 El objetivo es utilizar los Hooks de react mencionados anteriormente, para realizar un filtro por Tipo de Pokemon, o hacer una búsqueda en la 🔎, de un pokemon especifico por nombre, y al presionar el boton de buscar, nos devuelve un resultado. <br>
 
 
-![imágen de Pokedex](../apipokemon-react/src/assets/Pokedex_principal.png)
+![imágen de Pokedex](./src/assets/Pokedex_principal.png)
 
-![imágen de barra de busqueda](../apipokemon-react/src/assets/Pokedex_barsearch.png)
+![imágen de barra de busqueda](./src/assets/Pokedex_barsearch.png)
 
 Tambien podemos filtrar por tipo de Pokemon, y luego marcar la característica que queremos que nos filtre.
 <br>
 
 
-![imágen de Filtro](../apipokemon-react/src/assets/Pokédex_filter.png)
+![imágen de Filtro](./src/assets/Pokédex_filter.png)
 
 
 
@@ -35,7 +35,7 @@ Tambien se puede ver desde <a href="https://apipokemon-react-ejercicio.netlify.a
 
 ## Uso
 
-No se precisa identificarse para navegar para ver los diferentes pokemons y su informacion. Puedes realizar filtros o busquedas de los mismos.
+No se precisa identificarse para navegar para ver los diferentes pokemons y su informacion, asi como realizar filtros o busquedas de los mismos.
 
 
 ## Desarrolladores:
@@ -45,7 +45,7 @@ No se precisa identificarse para navegar para ver los diferentes pokemons y su i
 
 ## Tecnologías utilizadas
 
- <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="../apipokemon-react/src/assets/react.svg"> </a></p>
+ <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="./src/assets/react.svg"> </a></p>
 
 
 ## React + Vite
