@@ -35,7 +35,7 @@ Tambien se puede ver desde <a href="https://apipokemon-react-ejercicio.netlify.a
 
 ## Uso
 
-No se precisa identificarse para navegar para ver los diferentes pokemons y su informacion. puedes realizar filtros o busquedas de los mismos.
+No se precisa identificarse para navegar para ver los diferentes pokemons y su informacion. Puedes realizar filtros o busquedas de los mismos.
 
 
 ## Desarrolladores:
