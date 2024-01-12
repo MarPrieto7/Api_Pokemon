@@ -1,6 +1,6 @@
 # API Pokedex 
 
-<img src = "../assets/Pokédex_logo.png" width="60" height="39">
+<img src = "./assets/Pokédex_logo.png" width="60" height="39">
 
 Ejercicio para practicar react con Hooks (useState, useEffect, useContext) donde se ha utilizado la APi de PokeApi. <br> 
 Esta es la API que se ha utilizado para el ejercicio que es la <a href="https://pokeapi.co/">PokeApi.</a>
