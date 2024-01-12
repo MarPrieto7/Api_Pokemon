@@ -35,7 +35,8 @@ Tambien se puede ver desde <a href="https://apipokemon-react-ejercicio.netlify.a
 
 ## Uso
 
-No se precisa identificarse para navegar para ver los diferentes pokemons y su informacion, asi como realizar filtros o busquedas de los mismos.
+No se precisa identificarse para navegar para ver los diferentes pokemons y su informacion, asi como realizar filtros o busquedas de los mismos.<br>
+El código del proyecto está disponible para su descarga en el enlace de código, y al descargar el zip debeís en terminal descargar npm para que funcione en vuestro ordenador.
 
 
 ## Desarrolladores:
