@@ -2,7 +2,7 @@
 
 ![imagen Pokédex](./src/assets/Pokédex_logo.png)
 
-Ejercicio para practicar react con Hooks (useState, useEffect, useContext) donde se ha utilizado la APi de PokeApi. <br> 
+Ejercicio para practicar react con Hooks (useState, useEffect, useContext) donde se ha utilizado la APi de PokeApi y como guia se ha utilizado el [video](https://www.youtube.com/watch?v=BVQrG-Bp-94&t=5444s) de youtube del canal - Programación para el Mundo-.<br> 
 Esta es la API que se ha utilizado para el ejercicio que es la <a href="https://pokeapi.co/">PokeApi.</a>
 
 El objetivo es utilizar los Hooks de react mencionados anteriormente, para realizar un filtro por Tipo de Pokemon, o hacer una búsqueda en la 🔎, de un pokemon especifico por nombre, y al presionar el boton de buscar, nos devuelve un resultado. <br>
