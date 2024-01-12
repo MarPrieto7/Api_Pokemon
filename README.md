@@ -1,6 +1,6 @@
 # API Pokedex 
 
-<img src = "./apipokemon-react/src/assets/Pokédex_logo.png" width="60" height="39">
+<img src = "../assets/Pokédex_logo.png" width="60" height="39">
 
 Ejercicio para practicar react con Hooks (useState, useEffect, useContext) donde se ha utilizado la APi de PokeApi. <br> 
 Esta es la API que se ha utilizado para el ejercicio que es la <a href="https://pokeapi.co/">PokeApi.</a>
@@ -35,7 +35,7 @@ Tambien se puede ver desde <a href="https://apipokemon-react-ejercicio.netlify.a
 
 ## Uso
 
-No se precisa identificarse para navegar para ver los diferentes pokemons y su informacion, asi como realizar filtros o busquedas de los mismos.
+No se precisa identificarse para navegar para ver los diferentes pokemons y su informacion. puedes realizar filtros o busquedas de los mismos.
 
 
 ## Desarrolladores:
